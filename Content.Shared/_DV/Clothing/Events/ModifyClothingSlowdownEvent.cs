@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2025 kotobdev
+//
+// SPDX-License-Identifier: MPL-2.0
+
 namespace Content.Shared._DV.Clothing.Events;
 
 /// <summary>
